@@ -1,0 +1,15 @@
+{
+    "name": "bibliotecRandom.js",
+    "lockfileVersion": 3,
+    "requires": true,
+    "packages": {
+      "": {
+        "dependencies": {
+          "pass_gen_random": "^1.0.1"
+        }
+      },
+      "node_modules/pass_gen_random": {
+        "version": "1.0.1"
+      }
+    }
+  }
